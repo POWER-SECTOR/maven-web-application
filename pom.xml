@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>xfacto-releases</name>
 	      <url>http://13.232.48.191:8081/repository/xfacto-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>xfacto-snapshot</name>
 	      <url>http://13.232.48.191:8081/repository/xfacto-snapshot/</url>
 	    </snapshotRepository>
 	    
